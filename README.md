@@ -3,7 +3,10 @@ CMPINF 0010 Final Project
 
 Team 29. BFL
 
-by: Robert Embert, Brendan Long, Alexander Poarch
+Group members:
+Robert Embert - rce24@pitt.edu 
+Brendan Long - bfl11@pitt.edu
+Alexander Poarch - asp276@pitt.edu
 
 Our final project looks into the worst Pittsburgh neighborhood. We use the Firearms.csv, Fire Incidents.csv and trees.csv datasets to determine this.
 
